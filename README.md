@@ -8,4 +8,4 @@
   - [NixVirt](https://github.com/AshleyYakeley/NixVirt)
   - [Solaar-Flake](https://github.com/Svenum/Solaar-Flake)
 - 📫 How to reach me: s.git@holypenguin.net
-- 🌐 [My Website](https://logseq.holypenguin.net)
+- 🌐 More about my Projects and Me on my [website](https://logseq.holypenguin.net)

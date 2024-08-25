@@ -10,4 +10,4 @@
   - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
   - [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl)
 - 📫 How to reach me: s.git@holypenguin.net
-- 🌐 More about my Projects and Me on my [website](https://logseq.holypenguin.net)
+- 🌐 More about my Projects and Me on my [website](https://notes.ziegler.page)

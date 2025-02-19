@@ -11,5 +11,5 @@
   - [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl)
   - [attic-builder](https://github.com/Svenum/attic-builder)
   - [cards-against-humanity](https://github.com/sirBerg/cards-against-humanity)
-- 📫 How to reach me: s.git@holypenguin.net
+- 📫 How to reach me: s.ziegler@holypenguin.net
 - 🌐 More about my Projects and Me on my [website](https://notes.ziegler.page)

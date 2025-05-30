@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning NixOS and the nix language
 - 👯 I’m looking to collaborate on:
   - [nixpkgs](https://github.com/NixOS/nixpkgs)
-  - [attic-builder](https://github.com/Svenum/attic-builder)
+  - [iglu](https://github.com/iglu-sh)
   - [NixVirt](https://github.com/AshleyYakeley/NixVirt)
   - [Solaar-Flake](https://github.com/Svenum/Solaar-Flake)
   - [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)
